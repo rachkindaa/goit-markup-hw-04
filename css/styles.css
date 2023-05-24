@@ -481,8 +481,9 @@ footer {
     fill: var(--light-text-color);
 }
 
-.footer-social-text {
+.footer-social .footer-social-text {
     margin-bottom: 16px;
+    margin-top: 0;
 
     color: var(--primary-white-color);
 
