@@ -150,6 +150,7 @@ img {
 .hero {
     padding: 188px 0;
     height: 600px;
+    margin: auto;
     max-width: 1440px;
 
     background-color: var(--title-text-color);
@@ -450,11 +451,7 @@ footer {
 .footer .social-list {
     display: flex;
     gap: 16px;
-}
-
-.footer-social {
-    display: flex;
-    margin-left: 120px;
+    margin-top: 0;
 }
 
 .footer-social .social-list .social-item {
